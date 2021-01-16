@@ -1,3 +1,12 @@
 body{
-    color:red;
+    background-color: rgb(252, 252, 26);
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: black;
+    color:white;
 }
