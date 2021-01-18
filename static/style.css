@@ -1,6 +1,4 @@
-body{
-    background-color: rgb(252, 252, 26);
-}
+
 
 li {
     list-style: none;
@@ -23,7 +21,7 @@ h3{
 }
 
 .footer {
-    background-color:white;
+    background-color:aliceblue;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -34,7 +32,8 @@ span{
 }
 
 .image{
-    width: 50%;
+    height: 400px;
+    width: 40%;
     display: block;
     margin-left: auto;
     margin-right: auto;
